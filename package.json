@@ -1,6 +1,6 @@
 {
   "name": "react-stencil",
-  "homepage": "/cs1300-portfolio",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
