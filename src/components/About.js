@@ -17,7 +17,7 @@ export default function About() {
     
            <h1 class="about-intro"> Hello! My name is <div className="highlight"> Happy Hawk </div>  </h1> 
             <h2 class="about-intro">
-              I am a Computer Science student at Brown University with an interest in web design and development. I am particulary interested in commerce platforms, as shown through multiple projects below. 
+              I am a Computer Science student at Brown University with an interest in web design and development. Creating intuitive, accessible design makes me happy :) 
             </h2>
           </div>
           </div>
