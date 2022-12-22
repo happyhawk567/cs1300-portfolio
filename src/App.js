@@ -5,9 +5,7 @@ import "./App.css"
 
 
 export default function App() {
-<head>
-        <base href="~/" />
-    </head>
+
   return (
 
     <div class="App">
