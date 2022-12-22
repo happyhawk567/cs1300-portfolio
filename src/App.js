@@ -5,9 +5,7 @@ import "./App.css"
 
 
 export default function App() {
-  <head>
-        <base href="~/" />
-    </head>
+
   return (
 
     <div class="App">
@@ -22,11 +20,6 @@ export default function App() {
       </section>
       <section id="projects">
       <Projects/>
-      </section>
-
-      
-      <section id="iterative">
- 
       </section>
     </div>
   );
