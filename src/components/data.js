@@ -8,7 +8,7 @@ export const projects = [
       description:
         "Researching a vending machine's user experience through user observations, interviews, crafting user personas, and creating a storyboard",
       image: "./logo512.png",
-      link: "https://github.com/happyhawk567/portfolio-personas",
+      link: "https://happyhawk567.github.io/portfolio-personas",
     },
     {
       title: "Radius App Design",
@@ -16,14 +16,14 @@ export const projects = [
       description:
         "Interactive hi-fi app interface mockup for online grocery delivery service start-up called Radius",
       image: "./public/logo191.png",
-      link: "https://github.com/happyhawk567/portfolio-iterative",
+      link: "https://happyhawk567.github.io/portfolio-iterative",
     },
     {
       title: "BRYTE Webpage Design",
       subtitle: "web design",
       description:"Created static re-designed page for BRYTE (Brown Youth Tutoring & Enrichment) 'Join Us' Page",
         image: "",
-      link: "https://github.com/happyhawk567/portfolio-responsive",
+      link: "https://happyhawk567.github.io/portfolio-responsive",
     },
     {
       title: "Shoes R Us",
@@ -31,6 +31,6 @@ export const projects = [
       description:
         "Mock shopping page for online shoe store",
         image: "./public/logo191.png",
-      link: "https://github.com/happyhawk567/portfolio-dev",
+      link: "https://happyhawk567.github.io/portfolio-dev",
     },
   ];
